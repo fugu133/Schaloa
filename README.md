@@ -1,7 +1,6 @@
 # 超小型分光光度計Schaloa
 ## 概要
 浜松ホトニクスのマイクロ分光器[C12880MA](https://www.hamamatsu.com/jp/ja/product/optical-sensors/spectrometers/mini-spectrometer/C12880MA.html)を用いた吸光光度計モジュールのハードウェア設計データです．  
-クロロフィル含有量を計測するために開発しました．  
 本装置を使うと可視領域の分光計測や吸光光度分析がハンディサイズで実現可能です．  
 主にCADはEagleとFusionを使用しています．詳しい仕様は[こちら](design_specifications.pdf)    
 
